@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielalvarezquantion/repodeprueba.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "dalvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielalvarezquantion/repodeprueba/issues"
+  },
+  "homepage": "https://github.com/danielalvarezquantion/repodeprueba#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
